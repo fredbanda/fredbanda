@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @fredbanda
-- 👀 I’m a full stack developer. I do play well with MERN, MEAN. I do great with C#, C++ and SQL too. Oh and ruby and her cousin rails
+- 👀 I’m a full stack developer. I do play well with MERN, MEAN. I do great with C#, C++, Java and SQL too . Oh and ruby and her cousin rails
 - 🌱 When I grow up I would like to do alot of open source contributions. Wait am grown up just started contributing to open source not sauce
 -  Done uncertified traning on DevOps that include Docker, Kubernetes, Git and a few on my belt but I use tracksuit got no belt
 - 💞️ I’m looking to collaborate on different projects that can enrich my learning experience
+- And not really on this one but that 37 hour cybersecurity tutorial from Microsoft is wow try it am enjoying it
 - 📫 How to reach me well email fredcbanda@hotmail.com
 
 <!---
